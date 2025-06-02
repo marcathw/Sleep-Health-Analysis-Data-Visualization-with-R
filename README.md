@@ -23,3 +23,12 @@ An infographic-based data exploration project that highlights how professional o
 - HTML-based Shiny deployment
 - Sustainable Development Goal (SDG) alignment (Goal 3)
 - Age and BMI impact on health conditions
+
+---
+
+👥 **Group Members**
+- Clarissa Beatrice Kosasih 
+- Marcelline Cathrine Wilison  
+- Miecel Alicia Angel J
+- William
+- William Darma Wijaya
